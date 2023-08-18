@@ -7,7 +7,7 @@ Personal Computational Website for publication: https://rpubs.com/HeatWave2019
 
 Data Extraction and plot high frequency data plots with Rmarkdown
 
-results published to Rpub: https://rpubs.com/HeatWave2019/1072472
+Results published to Rpub: https://rpubs.com/HeatWave2019/1072472
 
 Creation of shinnyApp.io with API of ShippApp: https://micropower-assignment-app-dk.shinyapps.io/usehtml/#query-plots
 
